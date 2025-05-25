@@ -38,3 +38,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## notes on installation 
 ** use node version 20 due to shadcn not be compatible current node
+
+
+## Using Shadcn -- add components
+** npx shadcn@latest add button
+
+
+## TODO
+** Button when hover or push button changes to black -- find class to change to shade of blue used on navbar or something besides black
